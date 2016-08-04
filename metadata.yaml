@@ -1,0 +1,62 @@
+_repo: Sketches-New-and-Old_3189
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3189/3189-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "Sketches New and Old is a group of fictional stories -- except for \"\
+  The Case of George Fisher\" -- by Mark Twain. It was published in 1875. It includes\
+  \ the short story \"A Ghost Story\", among others.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3189'
+  wikidata: Q3058638
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: My watch -- Political economy -- The jumping frog -- Journalism in
+  Tennessee -- The story of the bad little boy -- The story of the good little boy
+  -- A couple of poems by Twain and Moore -- Niagara -- Answers to correspondents
+  -- To raise poultry -- Experience of the McWilliamses with membranous croup -- My
+  first literary venture -- How the author was sold in Newark -- The office bore --
+  Johnny Greer -- The facts in the case of the great beef contract -- The case of
+  George Fisher -- Disgraceful persecution of a boy -- The judge's "spirited woman"
+  -- Information wanted -- Some learned fables for good old boys and girls -- My late
+  senatorial secretaryship -- A fashion item -- Riley, Newspaper correspondent --
+  A fine old man -- Science vs. luck -- The late Benjamin Franklin -- Mr. Bloke's
+  item -- A medieval romance -- Petition concerning copyright -- After-dinner speech
+  -- Lionising murderers -- A new crime -- A curious dream -- A true story -- The
+  Siamese twins -- Speech at the Scottish banquet at London -- A ghost story -- The
+  Capitoline Venus -- Speech on accident insurance -- John Chinaman in New York --
+  How I once edited an agricultural paper -- The petrified man -- My bloody massacre
+  -- The undertaker's chat -- Concerning chambermaids -- Aurelia's unfortunate young
+  man -- "After" Jenkins -- About barbers -- "Party cries" in Ireland -- The facts
+  concerning the recent resignation -- History repeats itself -- Honored as a curiosity
+  -- First interview with Artemus Ward -- Cannibalism in the cars -- The killing of
+  Julius Caesar "localized" -- The widow's protest -- The scriptural panoramist --
+  Curing a cold -- A curious pleasure excursion -- Running for governor -- A mysterious
+  visit.
+title: Sketches New and Old
+url: http://www.gutenberg.org/ebooks/3189
+wikipedia:
+- https://fr.wikipedia.org/wiki/Esquisses_anciennes_et_nouvelles
+- https://en.wikipedia.org/wiki/Sketches_New_and_Old
