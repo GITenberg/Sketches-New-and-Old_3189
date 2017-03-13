@@ -1,10 +1,8 @@
 _repo: Sketches-New-and-Old_3189
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3189/3189-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3189-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -19,6 +17,8 @@ creator:
 description: "Sketches New and Old is a group of fictional stories -- except for \"\
   The Case of George Fisher\" -- by Mark Twain. It was published in 1875. It includes\
   \ the short story \"A Ghost Story\", among others.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3189#Sketches-New-and-Old
 gutenberg_issued: '2004-06-27'
 gutenberg_type: Text
 identifiers:
